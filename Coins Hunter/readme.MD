@@ -34,6 +34,7 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+  "amountOfKitsUpgrade": 5,
   "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
