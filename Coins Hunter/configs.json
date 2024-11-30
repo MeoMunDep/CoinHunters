@@ -9,5 +9,6 @@
   "doTasks": true,
   "playGames": true,
   "referralCode": "",
-  "todayCode": ["l", "b", "t", "r"]
+  "todayCode": ["l", "b", "t", "r"],
+  "amountOfKitsUpgrade": 5
 }
