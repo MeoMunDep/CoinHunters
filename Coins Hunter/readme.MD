@@ -16,7 +16,9 @@ To get started with the bot, follow these steps:
 
 -> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
 
-> Remember to download Nodejs version: **20.9.0** and NPM version: **10.9.0**
+> Remember to download:
+- **Node.js** (Version: `22.11.0`)
+- **npm** (Version: `10.9.0`)
 
 1. **Install Dependencies and Modules:**
 
@@ -44,7 +46,7 @@ To get started with the bot, follow these steps:
   "howManyAccountsRunInOneTime": 100,
   "doTasks": true,
   "playGames": true,
-  "referralCode": "",
+  "referralCode": "4bac5f71145c8a470bc965f564119f72",
   "todayCode": ["l", "b", "t", "r"] // Today combo - l is left, b is bottom, t is top, r is right
 }
 ```
