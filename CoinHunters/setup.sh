@@ -5,7 +5,7 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m' 
 
-echo -ne "\033]0;CoinHunters Bot by @MeoMunDep\007"
+echo -ne "\033]0;CoinsHunter Bot by @MeoMunDep\007"
 
 
 print_green() {
@@ -33,7 +33,6 @@ fi
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
