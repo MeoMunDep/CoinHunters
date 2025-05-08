@@ -1,5 +1,5 @@
 @echo off
-title CoinHunters Bot by @MeoMunDep
+title Coinshunter Bot by @MeoMunDep
 color 0A
 
 cd %~dp0
